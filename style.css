@@ -55,13 +55,13 @@ body {
   color: var(--danger-color);
 }
 
-.article, nav {
+.article, .header__nav {
   max-width: 1200px;
   margin: 0 auto;
   box-sizing: border-box;
 }
 
-nav {
+.header__nav {
   display: flex;
 }
 
